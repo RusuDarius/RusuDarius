@@ -6,7 +6,7 @@ Hey, I am Darius and I am a self-taught cybersecurity enthusiast. I am a student
 
 - 🌍  I'm located in **Sibiu, Romania**
 - 📫  How to reach me: **dariusrusu7@gmail.com**
-- 🌱  I’m currently learning **React, Tailwind CSS, JavaScrip, Blue Teaming Security**
+- 🌱  I’m currently learning **React, Tailwind CSS, JavaScript, Blue Teaming Security**
 
 <br/>
 <h3 align="left">Connect with me here:</h3>
