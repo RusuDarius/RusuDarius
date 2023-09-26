@@ -6,7 +6,7 @@ Hey, I am Darius and I am a self-taught web developer. I am a student, currently
 
 - 🌍  I'm located in **Sibiu, Romania**
 - 📫  How to reach me: **dariusrusu7@gmail.com**
-- 🌱  I’m currently learning **React, Tailwind CSS, JavaScript, Blue Teaming Security**
+- 🌱  I’m currently working with **React, Tailwind CSS, JavaScript, TypeScript**
 
 <br/>
 <h3 align="left">Connect with me here:</h3>
