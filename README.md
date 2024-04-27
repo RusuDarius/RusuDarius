@@ -1,6 +1,6 @@
 # Hello, my name is Darius 👋
 
-<h3 align="left">Student / Future Web Developer</h3> 
+<h3 align="left">Student / Nerd</h3> 
 
 Hey, I am Darius and I am a self-taught web developer. I am a student, currently in my 3rd and last year of University. I have been studying web development for 1 year, spending most of my time on online courses and multiple platforms of learning such as forums and more. I have spent a lot of time learning from online courses, blogs, tutorials and many other self-teaching sources available while also doing personal projects to improve my practical skills. I started to study Cybersecurity as well being mostly involved in Bluea Teaming activities. Currently, my goal is to finish my current preparation in Front-End Development and to have a look into Back-End Web Development, having my eyes focused on Java (Spring), JavaScript (Node.js) or C# (.NET).
 
