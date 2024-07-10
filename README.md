@@ -74,16 +74,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/RusuDarius" target="_blank">
+<a href="https://github.com/RusuDarius" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/whitesalamand3r" target="_blank">
+<a href="https://dev.to/whitesalamand3r" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darius-rusu-82211327b/" target="_blank">
+<a href="https://www.linkedin.com/in/darius-rusu-82211327b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/darius_rusu19/" target="_blank">
+<a href="https://www.instagram.com/darius_rusu19/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
