@@ -1,6 +1,6 @@
 # Hello, my name is Darius 👋
 
-<h3 align="left">Student / Nerd</h3> 
+<h3 align="center">Student / Nerd</h3> 
 
 ### <div align="center">Hey, I am Darius and I am a self-taught web developer. I have been studying web development for 1 year, spending most of my time on online courses and multiple platforms of learning such as forums and more. I have spent a lot of time learning from the specified sources while also doing personal projects to improve my practical skills. I started to study Cybersecurity as well being mostly involved in Red Teaming activities, and slowly became a nerd 🤓🤓🤓.</div>  
   
